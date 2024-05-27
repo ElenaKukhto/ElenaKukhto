@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/ElenaKukhto/ElenaKukhto/blob/main/assets/Screenshot_2.png)
 
 About me
 
