@@ -1,4 +1,4 @@
-![Header](https://github.com/ElenaKukhto/ElenaKukhto/blob/main/assets/Screenshot_2.png)
+![Header](https://github.com/ElenaKukhto/ElenaKukhto/blob/main/assets/%E2%80%94Pngtree%E2%80%94abstract%20waving%20particle%20technology%20background_1233165.jpg)
 
 About me
 
