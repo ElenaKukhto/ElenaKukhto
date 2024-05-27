@@ -11,4 +11,4 @@ My CV
 
 
 ### My contacts
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7165F0?style=for-the-badge&logo=linkedin&logoColor=201756)](https://www.linkedin.com/in/keo04/) [![Telegram](https://img.shields.io/badge/-Telegram-7165F0?style=for-the-badge&logo=telegram&logoColor=201756)](https://t.me/keo04)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7165F0?style=for-the-badge&logo=linkedin&logoColor=318CE7)](https://www.linkedin.com/in/keo04/) [![Telegram](https://img.shields.io/badge/-Telegram-7165F0?style=for-the-badge&logo=telegram&logoColor=252526)](https://t.me/keo04) [![Email](https://img.shields.io/badge/-Email-7165F0?style=for-the-badge&logo=gmail&logoColor=20956)](https://kukhto70@gmail.com) 
