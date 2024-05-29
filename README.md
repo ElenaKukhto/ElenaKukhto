@@ -11,10 +11,11 @@
 
 ---
 
-- :mailbox: Связаться со мной:
-[![Telegram Badge](https://img.shields.io/badge/-@keo04-blue?style=flat&logo=telegram&logoColor=wthite)](https://t.me/keo04)  [![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=gmail&logoColor=red)](https://kukhto70@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo04/) 
+- :mailbox: Связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-@keo04-blue?style=flat&logo=telegram&logoColor=wthite)](https://t.me/keo04)  [![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=gmail&logoColor=red)](https://kukhto70@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo04/) 
+---
 
-Резюме
+### CV
+Вы можете найти мое резюме [здесь](https://drive.google.com/file/d/1pI6mE4Bl9aW_hKSG5wbF0TaU86xD-eO8/view?usp=sharing).
 
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/-Jira-201756?style=for-the-badge&logo=jira&logoColor=136be1) ![DevTools](https://img.shields.io/badge/-DevTools-201756?style=for-the-badge&logo=googlechrome&logoColor=0AC800) ![Postman](https://img.shields.io/badge/-Postman-201756?style=for-the-badge&logo=postman&logoColor=f76935) ![Swagger](https://img.shields.io/badge/-Swagger-201756?style=for-the-badge&logo=swagger&logoColor=7ede2b) ![Github](https://img.shields.io/badge/-Github-201756?style=for-the-badge&logo=github&logoColor=8cc4d7) ![SQL](https://img.shields.io/badge/-MySQL-201756?style=for-the-badge&logo=mysql&logoColor=00618a) ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-201756?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
