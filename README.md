@@ -5,10 +5,14 @@
 Я тестировщик с небольшим опытом чуть больше года. 
 За это время я успела получить ценный опыт в ручном тестировании, сотрудничала с разработчиками, аналитиками и другими членами команды для обеспечения качества продукта. 
 
-Мои навыки включают написание тестовой документации, выполнение функционального и регрессионного тестирования. Опыт командной работы позволил мне развить навыки коммуникации, адаптивности и совместной работы для достижения общих целей проекта.
+Мои навыки включают написание тестовой документации, выполнение функционального и регрессионного тестирования, API тестирование. Опыт командной работы позволил мне развить навыки коммуникации, адаптивности и совместной работы для достижения общих целей проекта.
 
-Я стремлюсь к постоянному развитию и готова учиться новому, чтобы стать более компетентным и эффективным специалистом в области тестирования программного обеспечения. Меня вдохновляет возможность вносить свой вклад в создание качественного программного продукта и улучшение пользовательского опыта.
+Я стремлюсь стать эффективным специалистом в области тестирования. Меня вдохновляет возможность вносить свой вклад в создание качественного продукта.
 
+---
+
+- :mailbox: Связаться со мной:
+[![Telegram Badge](https://img.shields.io/badge/-@keo04-blue?style=flat&logo=telegram&logoColor=wthite)](https://t.me/keo04)  [![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=gmail&logoColor=red)](https://kukhto70@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo04/) 
 
 Резюме
 
@@ -17,6 +21,3 @@
 
 ### Testing Documentation 
 
-
-### My contacts
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-7165F0?style=for-the-badge&logo=linkedin&logoColor=318CE7)](https://www.linkedin.com/in/keo04/) [![Telegram](https://img.shields.io/badge/-Telegram-7165F0?style=for-the-badge&logo=telegram&logoColor=252526)](https://t.me/keo04) [![Email](https://img.shields.io/badge/-Email-7165F0?style=for-the-badge&logo=gmail&logoColor=20956)](https://kukhto70@gmail.com) 
