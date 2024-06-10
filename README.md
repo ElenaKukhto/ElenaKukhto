@@ -7,15 +7,16 @@
 
 Мои навыки включают написание тестовой документации, выполнение функционального и регрессионного тестирования, API тестирование. Опыт командной работы позволил мне развить навыки коммуникации, адаптивности и совместной работы для достижения общих целей проекта.
 
-Я стремлюсь стать эффективным специалистом в области тестирования. Меня вдохновляет возможность вносить свой вклад в создание качественного продукта.
+Меня вдохновляет возможность вносить свой вклад в создание качественного продукта.
 
 ---
 
-- :mailbox: Связаться со мной:[![Telegram Badge](https://img.shields.io/badge/-@keo04-blue?style=flat&logo=telegram&logoColor=wthite)](https://t.me/keo04)  [![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=gmail&logoColor=red)](https://kukhto70@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo04/) 
+- :mailbox: Связаться со мной:
+[![Telegram Badge](https://img.shields.io/badge/-@keo04-blue?style=flat&logo=telegram&logoColor=wthite)](https://t.me/keo04)  [![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=gmail&logoColor=red)](https://kukhto70@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keo04/) 
 ---
 
 ### CV
-Вы можете найти мое резюме [здесь](https://drive.google.com/file/d/1pI6mE4Bl9aW_hKSG5wbF0TaU86xD-eO8/view?usp=sharing).
+Вы можете найти мое резюме [здесь](https://drive.google.com/file/d/1KD7O_KgIBIfpsFcn9vA_IaB1IINMkGS_/view?usp=sharing).
 
 ---
 ### Навыки
